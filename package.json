@@ -1,0 +1,29 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "start learning node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sanjeev Maurya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+   
+    "chalk": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeev808/learning-node-js-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanjeev808/learning-node-js-/issues"
+  },
+  "homepage": "https://github.com/sanjeev808/learning-node-js-#readme"
+}
