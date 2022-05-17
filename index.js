@@ -54,10 +54,11 @@
 // const fs = require('fs').writeFileSync;
 // fs('2nd.txt' , 'heloo sanju bhai')
 
- const chalk = require("chalk")
- const log = console.log;
+//challenge answer
 
- log(chalk.red('Hello') + ' World' + chalk.red('!'));
+//  const chalk = require("chalk")
+//  const log = console.log;
 
+//  log(chalk.red('Hello') + ' World' + chalk.red('!'));
 
-
+console.log("hello") 
